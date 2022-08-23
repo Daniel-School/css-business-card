@@ -9,11 +9,14 @@ body {
 }
 
 .avatar {
-    width: 180px;
+    width: 150px;
+    /*height: 150px;*/
+    background-image: url("https://im.ezgif.com/tmp/ezgif-1-ff63cf8a2d-gif-im/frame_00_delay-0.04s.gif");
+    background-size: cover;
 }
 
 .avatar:hover {
-    border: 5px solid #2ec4b6;
+    background-image: url("https://64.media.tumblr.com/b0eaa17a672b809c8ff61fe315c7c33c/tumblr_inline_o8280ocHK71rfnlv2_500.gif");
 }
 
 .card {
